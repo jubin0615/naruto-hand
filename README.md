@@ -1,5 +1,11 @@
 # naruto-hand
 
+## 예시 화면
+
+![예시 화면 1](1.jpg)
+
+![예시 화면 2](2.jpg)
+
 ## 클론
 
 ```bash
@@ -16,3 +22,4 @@ git clone https://github.com/jubin0615/naruto-hand.git
 2. **Ritwick Dey**가 만든 **Live Server**를 **Install**
 3. `index.html` 파일 **우클릭**
 4. **Open with Live Server** 클릭
+
